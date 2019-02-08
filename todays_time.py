@@ -9,3 +9,7 @@ print(D)
 
 
 #add change here
+x = 1
+y = 2
+z = (3x+1)-y
+print(z)
